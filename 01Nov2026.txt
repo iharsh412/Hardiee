@@ -1,0 +1,3 @@
+1. https://leetcode.com/problems/longest-consecutive-sequence/submissions/2186597297/
+2. https://leetcode.com/problems/set-matrix-zeroes/submissions/2186820100/
+3. https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1
