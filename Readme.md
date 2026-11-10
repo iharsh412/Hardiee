@@ -19,3 +19,7 @@
 10. 03Nov2026.txt
 11. 04Nov2026.txt
 12. 05Nov2026.txt
+13. 06Nov2026 and 07Nov2026 not done
+14. 08Nov2026.txt
+15. 09Nov2026.txt not done
+16. 
