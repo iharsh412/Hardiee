@@ -1,0 +1,2 @@
+1. https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1
+2. https://leetcode.com/problems/subsets/submissions/2203871459/
